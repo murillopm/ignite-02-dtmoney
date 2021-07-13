@@ -8,7 +8,6 @@ import { Dashboard } from "./components/Dashboard";
 import { NewTransactionModal } from './components/NewTransactionModal';
 import { TransactionsProvider } from './TransactionsContext';
 
-
 Modal.setAppElement('#root')
 
 export function App() {
